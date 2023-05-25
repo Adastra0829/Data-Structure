@@ -1,0 +1,5 @@
+﻿  문제2-심볼균형.c
+C:\Users\USER\Desktop\자료구조실습-9주차스택(1)\자료구조실습-9주차스택(1)\문제2-심볼균형.c(23,2): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Desktop\자료구조실습-9주차스택(1)\자료구조실습-9주차스택(1)\문제2-심볼균형.c(35,34): warning C4020: 'isBalanced': 실제 매개 변수가 너무 많습니다.
+C:\Users\USER\Desktop\자료구조실습-9주차스택(1)\자료구조실습-9주차스택(1)\문제2-심볼균형.c(47): warning C4716: 'getnode': 값을 반환해야 합니다.
+  자료구조실습-9주차스택(1).vcxproj -> C:\Users\USER\Desktop\자료구조실습-9주차스택(1)\x64\Debug\자료구조실습-9주차스택(1).exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "자료구조실습-12주차_트리(1)-20210211", "자료구조실습-12주차_트리(1)-20210211\자료구조실습-12주차_트리(1)-20210211.vcxproj", "{BED644E6-A479-4E59-8B2C-16D849B139AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED644E6-A479-4E59-8B2C-16D849B139AF}.Debug|x64.ActiveCfg = Debug|x64
+		{BED644E6-A479-4E59-8B2C-16D849B139AF}.Debug|x64.Build.0 = Debug|x64
+		{BED644E6-A479-4E59-8B2C-16D849B139AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{BED644E6-A479-4E59-8B2C-16D849B139AF}.Debug|x86.Build.0 = Debug|Win32
+		{BED644E6-A479-4E59-8B2C-16D849B139AF}.Release|x64.ActiveCfg = Release|x64
+		{BED644E6-A479-4E59-8B2C-16D849B139AF}.Release|x64.Build.0 = Release|x64
+		{BED644E6-A479-4E59-8B2C-16D849B139AF}.Release|x86.ActiveCfg = Release|Win32
+		{BED644E6-A479-4E59-8B2C-16D849B139AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE88B9B4-C374-411A-95C0-C3D8E406FD76}
+	EndGlobalSection
+EndGlobal

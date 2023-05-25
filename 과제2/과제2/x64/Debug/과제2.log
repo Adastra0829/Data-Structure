@@ -1,0 +1,12 @@
+﻿  과제2.c
+  락원소스.c
+C:\Users\USER\Desktop\자료구조-신동규\과제2\과제2\락원소스.c(34,22): warning C4098: 'initShare': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\자료구조-신동규\과제2\과제2\락원소스.c(41,22): warning C4098: 'initShare': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\자료구조-신동규\과제2\과제2\락원소스.c(60,22): warning C4098: 'addShare': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\자료구조-신동규\과제2\과제2\락원소스.c(67,18): warning C4098: 'addShare': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\자료구조-신동규\과제2\과제2\락원소스.c(88,22): warning C4098: 'removeShare': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\자료구조-신동규\과제2\과제2\락원소스.c(124,18): warning C4098: 'traverseShareElements': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\자료구조-신동규\과제2\과제2\락원소스.c(140,18): warning C4098: 'traverseShareGroups': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\Desktop\자료구조-신동규\과제2\과제2\락원소스.c(173,9): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다...
+  과제2.vcxproj -> C:\Users\USER\Desktop\자료구조-신동규\과제2\x64\Debug\과제2.exe
